@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 30px;
+  background: #111827;
+  align-items: center;
+}
+
+.navbar a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.logo {
+  font-weight: bold;
+  color: #38bdf8;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: #1e293b;
+}
+
+.hero h1 {
+  font-size: 40px;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  background: #3b82f6;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+.card {
+  background: #1f2937;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111827;
+  margin-top: 30px;
+}
