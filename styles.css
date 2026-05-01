@@ -28,15 +28,15 @@ body {
   text-align: center;
   padding: 80px 20px;
   background: #1e293b;
-}
+}<img src="/logo.png">
 
 .hero h1 {
   font-size: 40px;
 }
 
 #logo{
-  width: 100px;
-  border-radius: 50px;
+  width: 120px;
+  border-radius: 60px;
   align: center;
 }
 
