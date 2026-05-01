@@ -33,10 +33,9 @@ body {
   font-size: 40px;
 }
 
-#logo{
-  width: 120px;
-  border-radius: 60px;
-  align: center;
+.hero-logo {
+  height: 80px;
+  margin-bottom: 20px;
 }
 
 button {
