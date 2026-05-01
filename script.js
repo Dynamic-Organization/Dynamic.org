@@ -3,5 +3,5 @@ function goJoin() {
 }
 
 function goWhatsApp() {
-  alert("Add your WhatsApp community link here");
+  window.location.href = "https://chat.whatsapp.com/IJ2ENsJmdRu3etgdkNFCIh";
 }
