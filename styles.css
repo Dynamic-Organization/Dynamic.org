@@ -20,6 +20,8 @@ body {
 }
 
 .logo {
+  width: 20px;
+  border-radius: 10px;
   font-weight: bold;
   color: #38bdf8;
 }
