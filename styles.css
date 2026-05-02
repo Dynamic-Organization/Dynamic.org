@@ -34,7 +34,7 @@ body {
 }
 
 .join-banner img {
-  max-width: 280px;
+  max-width: 60px;
   border-radius: 10px;
   transition: 0.3s;
 }
