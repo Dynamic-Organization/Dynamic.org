@@ -4,6 +4,9 @@ body {
   background: #0f172a;
   color: white;
 }
+ p{
+   align: center;
+ }
 
 .navbar {
   display: flex;
@@ -24,6 +27,21 @@ body {
   border-radius: 20px;
 }
 
+.join-banner {
+  margin-top: 20px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.join-banner img {
+  max-width: 280px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.join-banner:hover img {
+  transform: scale(1.05);
+}
 .hero {
   text-align: center;
   padding: 80px 20px;
