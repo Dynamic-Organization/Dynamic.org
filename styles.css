@@ -71,6 +71,14 @@ button {
   margin: 0 auto 10px;
 }
 
+.card img {
+  transition: 0.3s;
+}
+
+.card:hover img {
+  transform: scale(1.1);
+}
+
 footer {
   text-align: center;
   padding: 20px;
