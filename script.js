@@ -1,5 +1,5 @@
-function goJoin() {
-  window.location.href = "contact.html";
+function goStart() {
+  window.location.href = "about.html";
 }
 
 function goWhatsApp() {
