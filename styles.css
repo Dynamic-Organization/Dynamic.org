@@ -103,3 +103,15 @@ footer {
   background: #111827;
   margin-top: 30px;
 }
+
+.secondary-btn {
+  margin-left: 10px;
+  background: transparent;
+  border: 1px solid #38bdf8;
+  color: #38bdf8;
+}
+
+.secondary-btn:hover {
+  background: #38bdf8;
+  color: #0b1220;
+}
